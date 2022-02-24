@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and faithful narrative of the late barbarous cruelties and hard usages, exercised by the Frenh against Protestants at Rochel, after their meeting at the market-place there, by order of the intendant of that province ar [sic] it was faithfully related by a person of good crehit, that has made made [sic] his escape from thence, and arrived at London on the 24th of September last.</title>
+            <author>P. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49657</idno>
+            <idno type="STC">Wing L51</idno>
+            <idno type="STC">ESTC R8722</idno>
+            <idno type="EEBO-CITATION">13534107</idno>
+            <idno type="OCLC">ocm 13534107</idno>
+            <idno type="VID">100017</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49657)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100017)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 461:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and faithful narrative of the late barbarous cruelties and hard usages, exercised by the Frenh against Protestants at Rochel, after their meeting at the market-place there, by order of the intendant of that province ar [sic] it was faithfully related by a person of good crehit, that has made made [sic] his escape from thence, and arrived at London on the 24th of September last.</title>
+                  <author>P. L.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At end: "A born French, but desirous to dy an English Protestant, P. L."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:100017:1" rendition="simple:additions"/>
+            <head>A True and Faithful NARRATIVE OF The late Barbarous Cruelties and hard Uſages, exerciſed by the <hi>French</hi> againſt PROTESTANTS AT ROCHEL, AFTER Their Meeting at the Market-Place there; By Order of the <hi>Intendant</hi> of that Province. Ar it was faithfully related, by a Perſon of good Crehit, that has made made his Eſcape from thence, and Arrived at <hi>London</hi> on the 24th of <hi>September</hi> laſt.</head>
+            <p>THis ſaying of our Bleſſed Lord, <hi>In the World you ſhall have Tribulation, but be of good Chear, I have overcome the World,</hi> was never more ſeaſonable to be meditated on, then in theſe latter times, when Wickedneſs is ſo great, and Malice ſo miſchievous; that ſuch as profeſs the Truth of his Goſpel, are thereby expoſed to all the Miſeries and Calamities that Hell can Aſſault them with. There is no Torment, nor no Cruelty which the <hi>Church of God</hi> has not undergone, ſince ſhe hath repurged and caſt out of her Com<g ref="char:EOLhyphen"/>munion the Errors of <hi>Rome;</hi> ſo as they may very well ſay, as in the 44th <hi>Pſalm, For thy ſake (O Lord) we are killed all the day long; were count<g ref="char:EOLhyphen"/>ed as Sheep for the Slaughter.</hi>
+            </p>
+            <p>I will not undertake here, to deſcribe by particulars, all thoſe Tor<g ref="char:EOLhyphen"/>ments which the People of God have always ſuffer'd, and which have been as many and various as their Adverſaries Rage was fiery againſt them; ſeeing that this has been already diſcourſed at large, by ſeveral impartial Men, whoſe Religious purpoſes therein, was to ſhew the World that the <hi>Compaſſions of Rome are Cruel.</hi> But my Deſign in this Paper is, to give a true and ſincere Account of a late Perſecution exer<g ref="char:EOLhyphen"/>cis'd
+<pb n="2" facs="tcp:100017:2"/>
+againſt the <hi>Proteſtants</hi> of <hi>Rochel,</hi> by the <hi>Intendant</hi> there; by whoſe order they being aſſembled in the Market-place of that Town, about the beginning of this inſtant <hi>September</hi> 1681, he made them ſeveral queſtions concerning their Religion, and told them that the intention of His Majeſty (by whoſe Special command he had call'd them theither) was, that all his Subjects ſhould be <hi>Catholicks,</hi> and that none of 'em ſhould profeſs the Hereſy of <hi>Calvin,</hi> which was but a new Opinion contrary to the Principles of the ancient <hi>Catho<g ref="char:EOLhyphen"/>lick</hi> Faith, and moſt prejudicial both to the intreſt of his Crown and welfare of his People.</p>
+            <p>Therefore he adviſed (and would abſolutely have) them to con<g ref="char:EOLhyphen"/>vert themſelves and return to the Boſome of the Church, from which they were gone aſtray,; intimating that this would be of a great advantage to them, and that they could not fail of bet<g ref="char:EOLhyphen"/>tering their condition hereby, for His Majeſty intended to make them a conſiderable abatement of the Taxes and Subſidies they did now pay, and to admit them into Places of Truſt and Honour (as his <hi>Catholick</hi> Subject) which their Religion had been all this while a bar to their being prefer'd to. But if they would not turn, they might expect to receive ſuch puniſhments as his Majeſty or his Of<g ref="char:EOLhyphen"/>ficer ſhould think fit, to inflict upon them for their Rebellion and obſtinacy. To which diſcourſe theſe poor diſtreſſed <hi>Proteſtants</hi> giving no anſwer, and holding their peace as the People of <hi>Judah</hi> did to <hi>Rab-ſhakeh's</hi> Blaſphemous words, the <hi>Intendant</hi> told them that if within three hours time they did not come to a final reſolution, ſo as to give a poſitive anſwer to the propoſition that was made to them, they ſhould be held guilty of contumacy, and proceeded a<g ref="char:EOLhyphen"/>gainſt according to Law. Whereupon they unanimouſly and with a <hi>Chriſtian-like</hi> courage replied that they would die in that Religion wherein they were Born and brought up, and hoped that his Majeſty would be ſo gracious to them as to let 'em peacefully follow the ſame according to the dictates of their own Conſciences ſince this Religion of theirs was ſo far from being deſtructive to his Majeſties Government, that it did teach them to bear an awful obe<g ref="char:EOLhyphen"/>dience to it, and to promote the Peace and welfare of the ſame; which they always did, and would ſtill endeavour to do as much as in them lay, with a deep ſubmiſſion to his Laws as being his moſt faithful Subjects.</p>
+            <p>At this diſcourſe the <hi>Intendant</hi> fell into a great paſſion; and ſend<g ref="char:EOLhyphen"/>ing them to their ſeveral homes told them with anger, that ſince they ſo little ſenſible of their own good, as not to anſwer the Kings deſires, as he might juſtly expect, and accept of his gracious profers to them with a dutiful thankfulneſs to his Majeſty for the ſame, they ſhould ſee within a ſmall time what ſhovld be the reward of their diſobedience to his Orders, and ſlight'ning of his Royal Boun<g ref="char:EOLhyphen"/>ty. But notwithſtanding all this ſpecious and threatning Speech of the <hi>Intendants</hi> they perſiſted ſtill in their former purpoſe and reſolution of being conſtant to the true Religion, and anſwer'd him, that as no promiſe of reward could work upon him ſo as to engage them to imbrace a Religion which they knew to be contrary to the Goſpel,
+<pb n="3" facs="tcp:100017:2"/>
+ſo no threat of puniſhment could ever make them depart from that, which they were ſatisfied did entirely agree with it. Here the <hi>Intendant</hi> left them, and declined urging them any further by wors; But bethought himſelf of another way to try whether he could win them; which was to make good his promiſe of intreating them very ſeverely. He therefore ſent preſently into every of theſe Families a conſiderable number of Blood-thirſty Souldiers, with order of living there <hi>at diſcretion</hi> (as they call it) and doing all the miſ<g ref="char:EOLhyphen"/>chief they could. Which unjuſt and cruel order they did not fail of executing very punctually, and would have outdone it, if it had been poſſible for any helliſh envy and malice to go beyond the injuſtice of it; their profeſſion of Souldiers, with that of <hi>Romaniſts,</hi> making them breath out nothing but Deſtruction and ſlaughter. And their rage and barborouſneſs was ſuch as that they did not aim at taking a<g ref="char:EOLhyphen"/>way preſently theſe poor <hi>Proteſtants</hi> lives, but did make them to go through all the long and tedious tormemts their cruel heart could de<g ref="char:EOLhyphen"/>viſe: For they did not content themſelves to make a havock of theſe poor Creatures houſes, &amp; to abuſe them pittileſly; but violating all Laws, both of God and Nature, did pull Men, Women and Children out of thir houſes into the Streets, and drew them all along by the hair. Then taking them in again they bound them, ſcourged them, threw ſcalded hot water upon their naked bodies, put their feet into hot Oyle, cut their bodies all over eſpecially thoſe parts that are moſt ſenſitive, and did them ſeveral other cruelties, ſo as in <hi>Nero</hi>'s time no more barbarous and inhuman uſages were ever heard of. And yet their fury and malice did not ſtop here and could not be ſa<g ref="char:EOLhyphen"/>tisfied till they had ſtarved ſome to death, and treatned others to do the ſame or worſe to them, if they would not abjure their Hereſy (as they call it.) ſo that ſome of a weaker ſpirit in the ſenſe of reſent<g ref="char:EOLhyphen"/>ment of the tormens they had already ſuffer'd, and apprehenſion of thoſe they were threatned with, for the future, not thinking them<g ref="char:EOLhyphen"/>ſelves capable of abiding the brunt of a ſecond aſſault, did turn in<g ref="char:EOLhyphen"/>deed, and had amends made them for their loſſes, though not for their wounds.</p>
+            <p>But others of a firmer courage, and whoſe Principles are <hi>to be faithful to the end as they may obtain the Crown of Life,</hi> being ſtill con<g ref="char:EOLhyphen"/>ſtant to the truth they profeſs are dayly put on the rack, and ſo cruelly tortured that it would make the Chriſtian Readers heart bleed if there were words expreſſive enough to deſcribe throughly the in<g ref="char:EOLhyphen"/>humanity of this perſecution, which is ſo violent, that ſuch as are ex<g ref="char:EOLhyphen"/>poſed thereto endeavour every day to run away and leave their E<g ref="char:EOLhyphen"/>ſtates behind them, to obey that Command of our <hi>Saviour's, when you are perſecuted in one place fly into another.</hi> But ſuch care is taken by the adverſaries, that none of the <hi>Proteſtants</hi> ſhould depart that Place, as there are but few that can make their eſcape and be ſo hap<g ref="char:EOLhyphen"/>py as he is, who has made me the relation of what I now give to the Publick, and who has been ſo lucky as to ſave himſelf out of the Ty<g ref="char:EOLhyphen"/>ranny of <hi>Rome</hi> and find an apportunity to come into theſe Bleſſed Countries where <hi>Proteſtancy</hi> flouriſhes and Charity abounds, and where ſo many of other poor diſtreſſed <hi>Proteſtants</hi> reſort from all
+<pb n="4" facs="tcp:100017:3"/>
+places where Perſecution is hot againſt them; who are ſo kindly welcomed and ſo carefully provided for here, that I can't (though I am not in that condition as to partake of this Publick Charity my ſelf) but expreſs (as I do in the Paper) my due acknowledgments for the ſame both to his <hi>Britiſh</hi> Majeſty and the whole <hi>Engliſh</hi> Nation, in regard that it is done to my fleſh and blood, that is, thoſe of my Religion and Country, who as they ought to be moſt ſenſible of the extraordinary favours they daily receive here in <hi>England,</hi> ſo do I not doubt but that in time they will endeavour to owne this their obligation, by all the moſt Faithfull Services they ſhall be capable to return to a <hi>Prince</hi> and a <hi>Naion,</hi> that are ſo bountiful to them; and J do further Perſwade my ſelf, that they will now joyne their prayers with mine, that God Almighty, the Father of all Mercies, and giver of all good Gifts may reward <hi>Both</hi> by bleſſing <hi>them</hi> with all Temporal Bleſsings in this life, and Eternal Felicity in that which is to come.</p>
+            <closer>
+               <signed>Which is the conſtant <hi>Prayer</hi> of <hi>A Born French,</hi> but deſirous to dy <hi>An Engliſh Proteſtant,</hi> P. L.</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Prindted by <hi>D. Mallet,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
